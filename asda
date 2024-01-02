@@ -1,0 +1,195 @@
+     <div style="
+                height: 100%;
+                opacity: 0.1;
+                width: 100%;
+                 color: #000; 
+                color: #000;
+                background-color: #050505 !important;
+                position: absolute;">
+     </div>
+
+     
+
+
+
+     * {
+          margin: 0 !important;
+          padding: 0 !important;
+        }
+        
+        .aaa {
+          /* background-color: rgb(0, 0, 0, 0.068); */
+          background-color: #ffc400 ;
+          padding-left: 100px !important;
+          padding-right: 100px !important;
+          color: white !important;
+        }
+        .navv {
+          height: 100%;
+          width: 100%;
+          /* color: white !important; */
+          position: absolute;
+          opacity: 0.8;
+          box-shadow: 10px 10px 10px 10px;
+        }
+        .navbar-brand {
+          padding: 10px;
+        }
+        .logo {
+          height: 40px;
+        }
+        .bb a {
+          padding: 20px !important;
+          color: white;
+          font-weight: 500;
+          font-size: 20px;
+        }
+        .bb a:hover {
+          color: black;
+        }
+        .search {
+          margin-left: 40px !important;
+          /* background-color:rgb(252, 195, 2);  */
+          height: 40px;
+          /* border-color: 0px solid black !important; */
+            border-radius: 0px !important;
+          /* color: rgb(252, 195, 2); */
+        }
+        .form-control {
+          /* background-color: rgb(252, 195, 2) !important; */
+          border: 1px !important;
+          padding: 10px !important;
+          color: rgb(252, 195, 2);
+          /* opacity: .5; */
+          color: white !important;
+          border-radius: 0px !important;
+        }
+        
+        .fa-solid {
+          height: 20px !important;
+          padding: 10px !important;
+          font-size: 25px;
+          color: white !important;
+          background-color: rgb(0, 190, 201);
+          border: none !important;
+          border-color: transparent !important;
+          height: 40px !important;
+        }
+        .fa-solid :hover {
+          background-color: rgb(218, 172, 0) !important;
+          color: rgb(218, 172, 0) !important;
+        }
+        .ccc {
+          background-color: rgb(252, 195, 2);
+          height: 600px;
+          width: 100%;
+          display: flex;
+          justify-content: center !important;
+          
+        }
+        .text h1 {
+          padding-top: 15% !important;
+          padding-left: 15% !important;
+          font-size: 70px;
+          color: white;
+        }
+        .ltext {
+          padding-left: 12% !important;
+          padding-top: 5px !important;
+          color: white;
+        }
+        
+        .sideimg {
+          padding-top: 30px !important;
+          padding-right: 8% !important; 
+          position: relative !important;
+          display: flex !important;
+          flex-wrap: nowrap !important;
+          
+        }
+        .bt {
+          display: flex;
+          padding-left: 15% !important;
+          padding-top: 2% !important;
+          /* background-color: red !important; */
+        }
+        .button {
+          height: 50px !important;
+          width: 150px !important;
+          margin: 10px !important;
+        }
+        .btn1 :hover {
+          background-color: white !important;
+          color: white;
+        }
+        
+
+
+
+
+
+
+        <div class="col-md-6   ">
+        <div id="banner1    ">
+          <div class="container  d-flex  ">
+            <div class="row">
+              <div class="banner-title   ">
+                <h1>
+                   <div id="banner1    ">
+    <div class="container  d-flex  ">
+      <div class="row">
+        <div class="col-md-6   ">
+        <div class="banner-title   ">
+            <h1>
+              Animal Movie <br> Ranveer
+            </h1>
+            <p class="mt-4">As a nonsense Animal I do like to say thanks to Ranvijay signh (Ranveer Kapoor in Animal)
+              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, repudiandae.</p>
+              <button type="button" class="btn btn-warning">Warning</button>
+            </div>
+            
+            <div class="col-md-6 ">
+              <div class="box"> </div>
+              
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+                </h1>
+                <p class="mt-4">As a nonsense Animal I do like to say thanks to Ranvijay signh (Ranveer Kapoor in Animal)
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, repudiandae.</p>
+                  <button type="button" class="btn btn-warning">Warning</button>
+                </div>
+                
+                <div class="col-md-6 ">
+                  <div class="box"> </div>
+                  
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div id="banner1    ">
+      <div class="container  d-flex  ">
+        <div class="row">
+          <div class="col-md-6   ">
+          <div class="banner-title   ">
+              <h1>
+                Animal Movie <br> Ranveer
+              </h1>
+              <p class="mt-4">As a nonsense Animal I do like to say thanks to Ranvijay signh (Ranveer Kapoor in Animal)
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Deserunt, repudiandae.</p>
+                <button type="button" class="btn btn-warning">Warning</button>
+              </div>
+              
+              <div class="col-md-6 ">
+                <div class="box"> </div>
+                
+              </div>
+            </div>
+        </div>
+      </div>
+    </div>
